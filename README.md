@@ -23,5 +23,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=virginie-villard&" alt="virginie-villard" /></p>
 
-## 😂 Voici une blague aléatoire qui vous fera rire!
- ! [Carte de blagues] https://readme-jokes.vercel.app/api
+😂 Voici une blague aléatoire qui vous fera rire!
+![Jokes Card](https://readme-jokes.vercel.app/api)
