@@ -22,3 +22,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=gruvbox&show_icons=true)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=virginie-villard&" alt="virginie-villard" /></p>
+
+## 😂 Voici une blague aléatoire qui vous fera rire!
+ ! [Carte de blagues] https://readme-jokes.vercel.app/api
